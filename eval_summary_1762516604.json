@@ -1,0 +1,277 @@
+{
+  "results": [
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_1638400.pth",
+      "num_episodes": 20,
+      "mean_return": 130.19627703906696,
+      "std_return": 153.0179629147237,
+      "median_return": 240.7419472799474,
+      "min_return": -152.4310136660315,
+      "max_return": 273.29595126873033,
+      "mean_length": 393.3,
+      "std_length": 213.69536728717353,
+      "value_pred_mean": 38.363853099140506,
+      "value_pred_std": 23.71868080223978,
+      "episode_value_bias_mean": -87.37869468334603,
+      "episode_value_mse": 27807.570445383906,
+      "action_counts": {
+        "0": 2246,
+        "1": 1230,
+        "2": 3072,
+        "3": 1318
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_1474560.pth",
+      "num_episodes": 20,
+      "mean_return": 101.15897482401235,
+      "std_return": 167.7119015186964,
+      "median_return": 174.99935843321447,
+      "min_return": -223.44152243404474,
+      "max_return": 257.48628104215527,
+      "mean_length": 525.35,
+      "std_length": 279.5010330929029,
+      "value_pred_mean": 24.299441918293926,
+      "value_pred_std": 23.64839017993827,
+      "episode_value_bias_mean": -70.98239263906882,
+      "episode_value_mse": 30801.776594190153,
+      "action_counts": {
+        "0": 3056,
+        "1": 1986,
+        "2": 4056,
+        "3": 1409
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_2015232.pth",
+      "num_episodes": 20,
+      "mean_return": 100.68748572733465,
+      "std_return": 155.0446690731463,
+      "median_return": 39.45500851305064,
+      "min_return": -172.91705582285027,
+      "max_return": 299.212202762232,
+      "mean_length": 303.05,
+      "std_length": 186.6891734943406,
+      "value_pred_mean": 36.385893211443566,
+      "value_pred_std": 28.59186922803067,
+      "episode_value_bias_mean": -57.92977073535967,
+      "episode_value_mse": 25731.889668241743,
+      "action_counts": {
+        "0": 2159,
+        "1": 731,
+        "2": 2487,
+        "3": 684
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_1802240.pth",
+      "num_episodes": 20,
+      "mean_return": 50.144579686214406,
+      "std_return": 126.2236763681239,
+      "median_return": 2.4673631137752636,
+      "min_return": -201.49596594738676,
+      "max_return": 281.23045099442106,
+      "mean_length": 332.6,
+      "std_length": 314.22752902952345,
+      "value_pred_mean": 41.665833479574175,
+      "value_pred_std": 22.06074244878496,
+      "episode_value_bias_mean": -2.7033593867900607,
+      "episode_value_mse": 15450.246047936243,
+      "action_counts": {
+        "0": 2268,
+        "1": 1043,
+        "2": 2256,
+        "3": 1085
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_1146880.pth",
+      "num_episodes": 20,
+      "mean_return": 5.645368438865704,
+      "std_return": 148.397866926523,
+      "median_return": -12.02301794900442,
+      "min_return": -255.4933166525519,
+      "max_return": 271.6103881642239,
+      "mean_length": 292.2,
+      "std_length": 199.70393085765735,
+      "value_pred_mean": 17.053582031370322,
+      "value_pred_std": 25.64391399296468,
+      "episode_value_bias_mean": 14.070846510716649,
+      "episode_value_mse": 21933.786234598014,
+      "action_counts": {
+        "0": 2064,
+        "1": 826,
+        "2": 2243,
+        "3": 711
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_1310720.pth",
+      "num_episodes": 20,
+      "mean_return": -2.6424950686640174,
+      "std_return": 188.2435909284356,
+      "median_return": -54.44773425157467,
+      "min_return": -336.8876452648873,
+      "max_return": 276.61689532438675,
+      "mean_length": 319.6,
+      "std_length": 134.52969932323495,
+      "value_pred_mean": 16.28638487327401,
+      "value_pred_std": 28.94889363122808,
+      "episode_value_bias_mean": 17.044230485031555,
+      "episode_value_mse": 32947.61935500949,
+      "action_counts": {
+        "0": 1895,
+        "1": 852,
+        "2": 2808,
+        "3": 837
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_163840.pth",
+      "num_episodes": 20,
+      "mean_return": -6.946407957793037,
+      "std_return": 25.128510660307317,
+      "median_return": -4.763456850305673,
+      "min_return": -59.280445324059826,
+      "max_return": 32.457767746092,
+      "mean_length": 121.5,
+      "std_length": 14.871112937504039,
+      "value_pred_mean": -26.06703494664573,
+      "value_pred_std": 21.333334748814572,
+      "episode_value_bias_mean": -18.901744668584577,
+      "episode_value_mse": 942.8574798495667,
+      "action_counts": {
+        "0": 588,
+        "1": 388,
+        "2": 1079,
+        "3": 375
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_491520.pth",
+      "num_episodes": 20,
+      "mean_return": -7.03272328560931,
+      "std_return": 137.69320868941338,
+      "median_return": -11.540109090904231,
+      "min_return": -215.4263829998174,
+      "max_return": 228.89690198893706,
+      "mean_length": 474.6,
+      "std_length": 336.71195404974856,
+      "value_pred_mean": 9.469168012424067,
+      "value_pred_std": 20.5077518586228,
+      "episode_value_bias_mean": 20.251516919271985,
+      "episode_value_mse": 19497.574900290947,
+      "action_counts": {
+        "0": 3121,
+        "1": 1540,
+        "2": 2645,
+        "3": 2186
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_655360.pth",
+      "num_episodes": 20,
+      "mean_return": -14.28827846998254,
+      "std_return": 145.2700944454946,
+      "median_return": -15.033024855093899,
+      "min_return": -345.03278101664154,
+      "max_return": 249.72327607365844,
+      "mean_length": 511.0,
+      "std_length": 359.8027237250991,
+      "value_pred_mean": 9.91342258435581,
+      "value_pred_std": 19.662056597428304,
+      "episode_value_bias_mean": 27.99775075040042,
+      "episode_value_mse": 22444.088603331475,
+      "action_counts": {
+        "0": 3449,
+        "1": 1566,
+        "2": 3175,
+        "3": 2030
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_1966080.pth",
+      "num_episodes": 20,
+      "mean_return": -28.323913878237807,
+      "std_return": 155.95013777521314,
+      "median_return": -33.113587112351034,
+      "min_return": -244.84534588722377,
+      "max_return": 264.62043645994993,
+      "mean_length": 619.65,
+      "std_length": 331.0631775054423,
+      "value_pred_mean": 23.699769953296297,
+      "value_pred_std": 25.149109876434775,
+      "episode_value_bias_mean": 55.50597236734677,
+      "episode_value_mse": 27277.836044782773,
+      "action_counts": {
+        "0": 3180,
+        "1": 1679,
+        "2": 5140,
+        "3": 2394
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_327680.pth",
+      "num_episodes": 20,
+      "mean_return": -34.548950716322764,
+      "std_return": 77.71118772158728,
+      "median_return": -37.52470041215673,
+      "min_return": -207.04340526229714,
+      "max_return": 104.95979840988443,
+      "mean_length": 258.3,
+      "std_length": 262.82886066792594,
+      "value_pred_mean": 6.0439442923617746,
+      "value_pred_std": 25.444480987555313,
+      "episode_value_bias_mean": 38.483342726944834,
+      "episode_value_mse": 7531.89280728258,
+      "action_counts": {
+        "0": 1460,
+        "1": 640,
+        "2": 1804,
+        "3": 1262
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_819200.pth",
+      "num_episodes": 20,
+      "mean_return": -50.14516973952394,
+      "std_return": 101.15252524262806,
+      "median_return": -40.98833662518125,
+      "min_return": -247.12136155700938,
+      "max_return": 146.75379735940612,
+      "mean_length": 319.6,
+      "std_length": 342.12503562294296,
+      "value_pred_mean": 4.932067350050824,
+      "value_pred_std": 25.732456692595694,
+      "episode_value_bias_mean": 60.91808388768813,
+      "episode_value_mse": 13962.511934800224,
+      "action_counts": {
+        "0": 2232,
+        "1": 1155,
+        "2": 2010,
+        "3": 995
+      }
+    },
+    {
+      "ckpt": "checkpoints_lunarlander/ckpt_983040.pth",
+      "num_episodes": 20,
+      "mean_return": -68.3641593495046,
+      "std_return": 134.18238195172486,
+      "median_return": -79.48598940412516,
+      "min_return": -331.71166773880503,
+      "max_return": 169.674443236928,
+      "mean_length": 438.25,
+      "std_length": 311.17452900261617,
+      "value_pred_mean": 15.914036401483207,
+      "value_pred_std": 17.527799215668633,
+      "episode_value_bias_mean": 87.37747002245112,
+      "episode_value_mse": 27076.637152798747,
+      "action_counts": {
+        "0": 2857,
+        "1": 1558,
+        "2": 3267,
+        "3": 1083
+      }
+    }
+  ]
+}

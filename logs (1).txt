@@ -1,0 +1,136 @@
+Steps: 16384/2000000, elapsed: 26.0s, recent_avg_return: -240.07
+Steps: 32768/2000000, elapsed: 50.7s, recent_avg_return: -175.51
+Steps: 49152/2000000, elapsed: 74.1s, recent_avg_return: -138.52
+Steps: 65536/2000000, elapsed: 99.3s, recent_avg_return: -106.92
+Steps: 81920/2000000, elapsed: 124.2s, recent_avg_return: -85.84
+Steps: 98304/2000000, elapsed: 149.1s, recent_avg_return: -62.61
+Steps: 114688/2000000, elapsed: 173.1s, recent_avg_return: -50.78
+Steps: 131072/2000000, elapsed: 199.1s, recent_avg_return: -36.43
+Steps: 147456/2000000, elapsed: 223.6s, recent_avg_return: -17.75
+Steps: 163840/2000000, elapsed: 250.1s, recent_avg_return: -16.14
+Saved checkpoint: checkpoints_lunarlander/ckpt_163840.pth
+Steps: 180224/2000000, elapsed: 277.8s, recent_avg_return: 3.52
+Steps: 196608/2000000, elapsed: 305.2s, recent_avg_return: 11.68
+Steps: 212992/2000000, elapsed: 334.2s, recent_avg_return: 17.90
+Steps: 229376/2000000, elapsed: 363.0s, recent_avg_return: 2.03
+Steps: 245760/2000000, elapsed: 392.6s, recent_avg_return: 16.40
+Steps: 262144/2000000, elapsed: 422.1s, recent_avg_return: 8.80
+Steps: 278528/2000000, elapsed: 451.3s, recent_avg_return: 35.22
+Steps: 294912/2000000, elapsed: 481.6s, recent_avg_return: 22.47
+Steps: 311296/2000000, elapsed: 510.4s, recent_avg_return: 16.72
+Steps: 327680/2000000, elapsed: 541.1s, recent_avg_return: 46.56
+Saved checkpoint: checkpoints_lunarlander/ckpt_327680.pth
+Steps: 344064/2000000, elapsed: 571.4s, recent_avg_return: 24.26
+Steps: 360448/2000000, elapsed: 602.9s, recent_avg_return: -20.28
+Steps: 376832/2000000, elapsed: 635.8s, recent_avg_return: 14.41
+Steps: 393216/2000000, elapsed: 667.5s, recent_avg_return: 14.33
+Steps: 409600/2000000, elapsed: 699.3s, recent_avg_return: 25.52
+Steps: 425984/2000000, elapsed: 729.5s, recent_avg_return: 18.57
+Steps: 442368/2000000, elapsed: 761.3s, recent_avg_return: 17.86
+Steps: 458752/2000000, elapsed: 793.1s, recent_avg_return: 21.35
+Steps: 475136/2000000, elapsed: 823.4s, recent_avg_return: 19.69
+Steps: 491520/2000000, elapsed: 856.0s, recent_avg_return: 53.15
+Saved checkpoint: checkpoints_lunarlander/ckpt_491520.pth
+Steps: 507904/2000000, elapsed: 889.8s, recent_avg_return: 96.09
+Steps: 524288/2000000, elapsed: 922.9s, recent_avg_return: 98.27
+Steps: 540672/2000000, elapsed: 955.3s, recent_avg_return: 81.62
+Steps: 557056/2000000, elapsed: 988.5s, recent_avg_return: 59.85
+Steps: 573440/2000000, elapsed: 1021.8s, recent_avg_return: 57.98
+Steps: 589824/2000000, elapsed: 1053.2s, recent_avg_return: 59.41
+Steps: 606208/2000000, elapsed: 1086.3s, recent_avg_return: 51.80
+Steps: 622592/2000000, elapsed: 1121.6s, recent_avg_return: 39.94
+Steps: 638976/2000000, elapsed: 1153.7s, recent_avg_return: 34.10
+Steps: 655360/2000000, elapsed: 1187.9s, recent_avg_return: 36.01
+Saved checkpoint: checkpoints_lunarlander/ckpt_655360.pth
+Steps: 671744/2000000, elapsed: 1221.5s, recent_avg_return: 35.02
+Steps: 688128/2000000, elapsed: 1255.6s, recent_avg_return: -5.42
+Steps: 704512/2000000, elapsed: 1291.3s, recent_avg_return: -24.60
+Steps: 720896/2000000, elapsed: 1326.4s, recent_avg_return: -14.59
+Steps: 737280/2000000, elapsed: 1360.2s, recent_avg_return: -6.21
+Steps: 753664/2000000, elapsed: 1395.7s, recent_avg_return: -26.35
+Steps: 770048/2000000, elapsed: 1429.1s, recent_avg_return: -41.07
+Steps: 786432/2000000, elapsed: 1463.0s, recent_avg_return: -12.98
+Steps: 802816/2000000, elapsed: 1497.3s, recent_avg_return: 4.65
+Steps: 819200/2000000, elapsed: 1531.2s, recent_avg_return: 39.88
+Saved checkpoint: checkpoints_lunarlander/ckpt_819200.pth
+Steps: 835584/2000000, elapsed: 1565.6s, recent_avg_return: 64.27
+Steps: 851968/2000000, elapsed: 1599.4s, recent_avg_return: 54.70
+Steps: 868352/2000000, elapsed: 1633.7s, recent_avg_return: 79.03
+Steps: 884736/2000000, elapsed: 1664.9s, recent_avg_return: 63.83
+Steps: 901120/2000000, elapsed: 1696.0s, recent_avg_return: 8.06
+Steps: 917504/2000000, elapsed: 1726.5s, recent_avg_return: 38.43
+Steps: 933888/2000000, elapsed: 1758.8s, recent_avg_return: 25.20
+Steps: 950272/2000000, elapsed: 1790.3s, recent_avg_return: 16.96
+Steps: 966656/2000000, elapsed: 1822.8s, recent_avg_return: 50.27
+Steps: 983040/2000000, elapsed: 1853.8s, recent_avg_return: 65.72
+Saved checkpoint: checkpoints_lunarlander/ckpt_983040.pth
+Steps: 999424/2000000, elapsed: 1885.3s, recent_avg_return: 99.32
+Steps: 1015808/2000000, elapsed: 1917.1s, recent_avg_return: 85.33
+Steps: 1032192/2000000, elapsed: 1949.9s, recent_avg_return: 51.32
+Steps: 1048576/2000000, elapsed: 1982.3s, recent_avg_return: 63.57
+Steps: 1064960/2000000, elapsed: 2014.1s, recent_avg_return: 77.85
+Steps: 1081344/2000000, elapsed: 2045.1s, recent_avg_return: 45.70
+Steps: 1097728/2000000, elapsed: 2075.4s, recent_avg_return: 22.47
+Steps: 1114112/2000000, elapsed: 2105.9s, recent_avg_return: 7.20
+Steps: 1130496/2000000, elapsed: 2137.4s, recent_avg_return: 43.49
+Steps: 1146880/2000000, elapsed: 2168.3s, recent_avg_return: 57.58
+Saved checkpoint: checkpoints_lunarlander/ckpt_1146880.pth
+Steps: 1163264/2000000, elapsed: 2199.1s, recent_avg_return: 85.44
+Steps: 1179648/2000000, elapsed: 2229.1s, recent_avg_return: 133.49
+Steps: 1196032/2000000, elapsed: 2259.3s, recent_avg_return: 152.95
+Steps: 1212416/2000000, elapsed: 2290.4s, recent_avg_return: 117.21
+Steps: 1228800/2000000, elapsed: 2321.0s, recent_avg_return: 122.19
+Steps: 1245184/2000000, elapsed: 2350.6s, recent_avg_return: 98.58
+Steps: 1261568/2000000, elapsed: 2382.2s, recent_avg_return: 27.97
+Steps: 1277952/2000000, elapsed: 2413.0s, recent_avg_return: 7.55
+Steps: 1294336/2000000, elapsed: 2444.0s, recent_avg_return: 17.84
+Steps: 1310720/2000000, elapsed: 2470.2s, recent_avg_return: 37.84
+Saved checkpoint: checkpoints_lunarlander/ckpt_1310720.pth
+Steps: 1327104/2000000, elapsed: 2498.3s, recent_avg_return: 77.24
+Steps: 1343488/2000000, elapsed: 2528.8s, recent_avg_return: 100.09
+Steps: 1359872/2000000, elapsed: 2557.7s, recent_avg_return: 117.43
+Steps: 1376256/2000000, elapsed: 2588.4s, recent_avg_return: 108.30
+Steps: 1392640/2000000, elapsed: 2619.7s, recent_avg_return: 141.30
+Steps: 1409024/2000000, elapsed: 2652.5s, recent_avg_return: 170.96
+Steps: 1425408/2000000, elapsed: 2682.4s, recent_avg_return: 143.58
+Steps: 1441792/2000000, elapsed: 2713.3s, recent_avg_return: 153.20
+Steps: 1458176/2000000, elapsed: 2743.5s, recent_avg_return: 158.57
+Steps: 1474560/2000000, elapsed: 2774.9s, recent_avg_return: 151.53
+Saved checkpoint: checkpoints_lunarlander/ckpt_1474560.pth
+Steps: 1490944/2000000, elapsed: 2806.4s, recent_avg_return: 171.78
+Steps: 1507328/2000000, elapsed: 2838.4s, recent_avg_return: 173.94
+Steps: 1523712/2000000, elapsed: 2869.8s, recent_avg_return: 164.37
+Steps: 1540096/2000000, elapsed: 2901.3s, recent_avg_return: 152.66
+Steps: 1556480/2000000, elapsed: 2933.6s, recent_avg_return: 164.88
+Steps: 1572864/2000000, elapsed: 2964.1s, recent_avg_return: 133.32
+Steps: 1589248/2000000, elapsed: 2995.0s, recent_avg_return: 163.50
+Steps: 1605632/2000000, elapsed: 3026.5s, recent_avg_return: 187.59
+Steps: 1622016/2000000, elapsed: 3056.5s, recent_avg_return: 177.05
+Steps: 1638400/2000000, elapsed: 3087.9s, recent_avg_return: 183.91
+Saved checkpoint: checkpoints_lunarlander/ckpt_1638400.pth
+Steps: 1654784/2000000, elapsed: 3118.6s, recent_avg_return: 149.23
+Steps: 1671168/2000000, elapsed: 3147.6s, recent_avg_return: 143.27
+Steps: 1687552/2000000, elapsed: 3177.8s, recent_avg_return: 176.44
+Steps: 1703936/2000000, elapsed: 3208.2s, recent_avg_return: 146.54
+Steps: 1720320/2000000, elapsed: 3240.7s, recent_avg_return: 121.65
+Steps: 1736704/2000000, elapsed: 3270.9s, recent_avg_return: 141.82
+Steps: 1753088/2000000, elapsed: 3299.3s, recent_avg_return: 128.56
+Steps: 1769472/2000000, elapsed: 3329.8s, recent_avg_return: 167.61
+Steps: 1785856/2000000, elapsed: 3360.1s, recent_avg_return: 186.30
+Steps: 1802240/2000000, elapsed: 3390.4s, recent_avg_return: 186.26
+Saved checkpoint: checkpoints_lunarlander/ckpt_1802240.pth
+Steps: 1818624/2000000, elapsed: 3420.4s, recent_avg_return: 177.63
+Steps: 1835008/2000000, elapsed: 3451.4s, recent_avg_return: 156.80
+Steps: 1851392/2000000, elapsed: 3483.4s, recent_avg_return: 112.06
+Steps: 1867776/2000000, elapsed: 3513.9s, recent_avg_return: 151.50
+Steps: 1884160/2000000, elapsed: 3545.9s, recent_avg_return: 154.43
+Steps: 1900544/2000000, elapsed: 3575.0s, recent_avg_return: 193.09
+Steps: 1916928/2000000, elapsed: 3603.8s, recent_avg_return: 187.99
+Steps: 1933312/2000000, elapsed: 3633.6s, recent_avg_return: 158.62
+Steps: 1949696/2000000, elapsed: 3663.6s, recent_avg_return: 173.87
+Steps: 1966080/2000000, elapsed: 3695.1s, recent_avg_return: 187.70
+Saved checkpoint: checkpoints_lunarlander/ckpt_1966080.pth
+Steps: 1982464/2000000, elapsed: 3722.4s, recent_avg_return: 198.78
+Steps: 1998848/2000000, elapsed: 3752.8s, recent_avg_return: 169.93
+Steps: 2015232/2000000, elapsed: 3781.8s, recent_avg_return: 181.45
+Saved checkpoint: checkpoints_lunarlander/ckpt_2015232.pth
