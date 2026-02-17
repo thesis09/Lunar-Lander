@@ -1,8 +1,3 @@
-# Lunar-Lander
-
-Access Checkpoints_lunarlander folder where there are checkpoints of this model are saved from this drive link: [Checkpoints_Lunar-Lander](https://drive.google.com/drive/folders/1aRoePZi5LBPzo8jDiDHu962G6MjVyxqA?usp=sharing)
-
-
 # 🚀 LunarLander-v2 Solved with Transformer-XL & PPO
 
 ![Status](https://img.shields.io/badge/Status-Solved-success)
@@ -45,6 +40,9 @@ The agent was trained on `LunarLander-v2` (Continuous/Discrete) and demonstrated
 * **Phase 3 (35k+ steps):** *Mastery.* Stable convergence at +200 to +280.
 
 ---
+
+Access Checkpoints_lunarlander folder where there are checkpoints of this model are saved from this drive link: [Checkpoints_Lunar-Lander](https://drive.google.com/drive/folders/1aRoePZi5LBPzo8jDiDHu962G6MjVyxqA?usp=sharing)
+
 
 ## 🛠️ Installation & Usage
 
