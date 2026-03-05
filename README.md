@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Solved-success)
 ![Reward](https://img.shields.io/badge/Mean_Reward-+280-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-orange)
-![Videos/agent-episode-9.mp4](https://github.com/thesis09/Lunar-Lander/issues/1#issue-4030078409](https://github.com/thesis09/Lunar-Lander/issues/1)
+![Working video]([https://github.com/thesis09/Lunar-Lander/issues/1](https://github.com/thesis09/Lunar-Lander/issues/1))
 
 A custom **Recurrent Reinforcement Learning** agent designed to solve control tasks with partial observability or complex physics. This project implements a **Transformer-XL** memory mechanism within a **Proximal Policy Optimization (PPO)** framework, achieving SOTA-level stability on the `LunarLander-v2` benchmark.
 
