@@ -6,7 +6,7 @@
 [![Env](https://img.shields.io/badge/Env-Gymnasium-blue)](https://gymnasium.farama.org/)
 [![Convergence](https://img.shields.io/badge/Convergence-35k_steps-blueviolet)](https://github.com/thesis09/Lunar-Lander)
 
-> A production-grade Recurrent RL agent that solves `LunarLander-v2` using a **Transformer-XL memory mechanism inside a custom PPO loop** — converging at **+280 mean reward in ~35,000 steps**, roughly **3× more sample-efficient** than a vanilla PPO baseline (~100k steps). The architecture is designed to scale to pixel-based environments via a drop-in ViT/DinoV2 backbone.
+> A production-grade Recurrent RL agent that solves `LunarLander-v3` using a **Transformer-XL memory mechanism inside a custom PPO loop** — converging at **+280 mean reward in ~35,000 steps**, roughly **3× more sample-efficient** than a vanilla PPO baseline (~100k steps). The architecture is designed to scale to pixel-based environments via a drop-in ViT/DinoV2 backbone.
 
 ---
 
@@ -20,7 +20,7 @@
 | **Zero-crash episodes** | ✅ Final eval | ❌ Inconsistent |
 | **Fuel efficiency** | ✅ Smooth landings | ❌ Often wastes thrust |
 
-The "solved" threshold for LunarLander-v2 is +200. This agent exceeds it by 40%.
+The "solved" threshold for LunarLander-v3 is +200. This agent exceeds it by 40%.
 
 ### Training Curve
 The curve below shows a distinct **3-phase learning trajectory** — a hallmark of memory-augmented agents where the Transformer must fill its context window before exploiting temporal structure:
@@ -136,13 +136,13 @@ python quick_eval_best.py
 ### Evaluate All Checkpoints
 
 ```bash
-python eval_checkpoint.py --checkpoints_dir checkpoints --env LunarLander-v2 --episodes 20
+python eval_checkpoint.py --checkpoints_dir checkpoints --env LunarLander-v3 --episodes 20
 ```
 
 ### Record Agent Video
 
 ```bash
-python video_recorder.py --checkpoint checkpoints/ckpt_best.pth --env LunarLander-v2 --episodes 5
+python video_recorder.py --checkpoint checkpoints/ckpt_best.pth --env LunarLander-v3 --episodes 5
 ```
 
 ### Download Checkpoints
