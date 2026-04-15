@@ -1,4 +1,4 @@
-# 🚀 LunarLander-v2 — Transformer-XL Memory + PPO from Scratch
+# 🚀 LunarLander-v3 — Transformer-XL Memory + PPO from Scratch
 
 [![Status](https://img.shields.io/badge/Status-Solved-success)](https://github.com/thesis09/Lunar-Lander)
 [![Mean Reward](https://img.shields.io/badge/Mean_Reward-+280-brightgreen)](https://github.com/thesis09/Lunar-Lander)
