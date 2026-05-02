@@ -8,6 +8,8 @@
 
 > A production-grade Recurrent RL agent that solves `LunarLander-v3` using a **Transformer-XL memory mechanism inside a custom PPO loop** — converging at **+280 mean reward in ~35,000 steps**, roughly **3× more sample-efficient** than a vanilla PPO baseline (~100k steps). The architecture is designed to scale to pixel-based environments via a drop-in ViT/DinoV2 backbone.
 
+
+> Author is open to RL + LLM engineering roles (India onsite / worldwide remote). Contact: kaustubhkubitkar@gmail.com
 ---
 
 ## 📊 Results at a Glance
