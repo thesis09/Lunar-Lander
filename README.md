@@ -177,15 +177,6 @@ This architecture was built to scale. The next steps:
 - [ ] **Multi-agent**: Extend memory buffer to shared context across agents
 - [ ] **H100 scaling**: Train larger Transformer (d_model=1024, layers=4) on full pixel input
 
----
-
-## 📎 Related Work
-
-- [CartPole ViT+PPO](https://github.com/thesis09/Cartpole-) — Same architecture, pixel input, trained on H100 then compressed to RTX 3060 (480+/500 score)
-- [Quantitative Crypto Pipeline](https://github.com/thesis09/Quantitative-Crypto-Research-Predictive-Pipeline) — Companion quant research project
-
----
-
 ## License
 
 MIT
